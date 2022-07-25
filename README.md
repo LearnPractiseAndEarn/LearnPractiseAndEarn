@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LearnPractiseAndEarn
-- 👀 I’m interested in Android development using React Native
+- 👀 I’m interested in Machine Learning,Financial Analysis,Stock Market Prediction
 - 🌱 I’m currently learning Datascience
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
